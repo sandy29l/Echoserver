@@ -1,4 +1,4 @@
-# EX-1 Echoserver
+# Echoserver
 Echo server and client using python socket
 
 # AIM:
