@@ -1,7 +1,9 @@
-# Echoserver
+# EX-1- ECHOSERVER
+
+## Echoserver
 Echo server and client using python socket
 
-# AIM:
+## AIM:
 
 To develop a simple webserver to serve html programming pages.
 
